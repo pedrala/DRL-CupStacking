@@ -1,5 +1,9 @@
-# DRL-CupStacking
+## DRL-CupStacking
 This code is for stacking plastic cups using DRL(Doosan Robotics Language)
+
+
+## Reference Repo 
+https://github.com/doosan-robotics/doosan-robot
 
 
 ## Mission
